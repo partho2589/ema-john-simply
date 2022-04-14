@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from '../../images/Logo.svg'
+
 import './Header.css'
 const Header = () => {
     return (
@@ -12,6 +13,7 @@ const Header = () => {
                     <a href="/inventory">Inventory</a>
                     <a href="/about">About</a>
                 </div>
+                
             </nav>
         
     );
